@@ -1,0 +1,5 @@
+package com.restfull.app.controller;
+
+public class UserResource {
+
+}

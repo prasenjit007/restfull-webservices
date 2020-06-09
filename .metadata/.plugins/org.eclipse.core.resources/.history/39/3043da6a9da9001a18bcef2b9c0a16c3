@@ -1,0 +1,5 @@
+package com.restfull.app.exception.response;
+
+public class CustomizedResponseEntityHandler {
+
+}

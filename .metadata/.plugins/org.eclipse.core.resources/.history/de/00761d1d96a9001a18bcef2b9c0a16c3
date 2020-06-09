@@ -1,0 +1,5 @@
+package com.restfull.app.dao;
+
+public class UserDaoService {
+
+}

@@ -1,0 +1,14 @@
+package com.restfull.app;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+@SpringBootApplication
+public class RestfullApiStepByStepApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(RestfullApiStepByStepApplication.class, args);
+	}
+}

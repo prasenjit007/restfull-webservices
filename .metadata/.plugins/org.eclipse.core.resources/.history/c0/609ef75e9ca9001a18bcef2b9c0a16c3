@@ -1,0 +1,14 @@
+package com.restfull.app.exception;
+
+public class UserNotFoundException extends RuntimeException {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = -5540762946931335356L;
+
+	public UserNotFoundException(String message) {
+		super(message);
+	}
+
+}
